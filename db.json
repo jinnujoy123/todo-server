@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": "98e0",
+      "title": "Team Meeting Preparation",
+      "description": "Prepare slides and talking points for the upcoming team meeting",
+      "date": "2025-09-18",
+      "priority": "High",
+      "completed": true
+    },
+    {
+      "id": "6e38",
+      "title": "Budget Planning for the next 2 months",
+      "description": "",
+      "date": "2025-09-10",
+      "priority": "Low",
+      "completed": true
+    },
+    {
+      "id": "9e61",
+      "title": "Morning Workout",
+      "description": "",
+      "date": "2025-09-26",
+      "priority": "High",
+      "completed": false
+    },
+    {
+      "id": "000c",
+      "title": "Read a Book",
+      "description": "",
+      "date": "2025-09-18",
+      "priority": "Medium",
+      "completed": false
+    },
+    {
+      "title": "Meditate",
+      "description": "",
+      "date": "2025-09-09",
+      "priority": "Medium",
+      "completed": false,
+      "id": "TTMaWIV"
+    }
+  ]
+}
